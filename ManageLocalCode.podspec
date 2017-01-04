@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "/Users/libin/Desktop/ManageLocalCode", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/Lee8001/ManageLocalCode.git", :tag => "0.0.3" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
